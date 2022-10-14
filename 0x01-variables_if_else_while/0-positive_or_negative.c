@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
-   main - Start
-   Return: 0
+ * main - Start
+ * Return: 0
  */
 
 int main(void)
