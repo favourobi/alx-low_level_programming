@@ -15,11 +15,11 @@ while ((alpha <= 'Z'))
 putchar(alpha);
 alpha++;
 }
-putchar('\n');
 while (beta <= 'z')
 {
 putchar(beta);
 beta++;
 }
+putchar('\n');
 return (0);
 }
