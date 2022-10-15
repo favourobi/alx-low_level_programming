@@ -12,13 +12,13 @@ char alpha = 'A';
 char beta = 'a';
 while ((beta <= 'z'))
 {
-putchar(alpha);
-alpha++;
+putchar(beta);
+beta++;
 }
 while (alpha <= 'Z')
 {
-putchar(beta);
-beta++;
+putchar(alpha);
+alpha++;
 }
 putchar('\n');
 return (0);
