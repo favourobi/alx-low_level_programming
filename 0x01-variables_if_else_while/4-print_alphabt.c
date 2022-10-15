@@ -18,5 +18,6 @@ putchar(beta);
 }
 beta++;
 }
+putchar('\n');
 return (0);
 }
