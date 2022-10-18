@@ -11,6 +11,7 @@ int start_count = 0;
 char alpha = 'a';
 while (start_count < 10)
 {
+alpha = 'a';
 while (alpha <= 'z')
 {
 _putchar(alpha);
