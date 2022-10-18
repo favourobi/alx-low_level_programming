@@ -3,7 +3,7 @@
 /**
  * _islower - for lowercase
  * Return: 1
- * @c - an ASCII character
+ * @c: an ASCII character
  */
 
 int _islower(int c)
