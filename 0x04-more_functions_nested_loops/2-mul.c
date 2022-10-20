@@ -4,13 +4,13 @@
  * mul - multiplies two ints.
  * @a: integer.
  * @b: integer.
- * Return: multex.
+ * Return: product.
  */
 
 int mul(int a, int b);
 {
-int multex;
+int product;
 
-multex = a * b;
-return (multex);
+product = a * b;
+return (product);
 }
